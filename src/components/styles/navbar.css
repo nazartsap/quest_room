@@ -1,0 +1,41 @@
+.navbar_mainpage { 
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 8%;
+}
+.nav_links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+.nav_all{
+    display: flex;
+}
+li {
+    list-style-type: none;
+}
+
+.nav_address{
+    display: flex;
+    color: #FFF;
+    padding: 0 20px;
+    align-items: center;
+}
+
+.nav_links_block1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFF;
+    font-family: Baloo 2;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px; /* 120% */
+    letter-spacing: -0.4px;
+    gap: 20px;
+    padding-right: 120px;
+}
+.empty{
+    width: auto;
+}

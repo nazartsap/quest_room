@@ -1,0 +1,47 @@
+.logo_footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img_logo_footer{
+    width: 150px;
+    height: 120px;
+}
+.nav_footer{
+    display: flex;
+    justify-content: center;
+}
+.nav_links_footer{
+    display: flex;
+    align-items: flex-start;
+    gap: 92px; 
+}
+.div{
+    width: 100%;
+    height: 1px;
+    background: #000;
+}
+.all_right{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    color: #FFF;
+    font-family: Baloo 2;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+li:focus {
+    outline: none;
+  }
+a {
+    text-decoration: none;
+    outline: none;
+  }
+a {
+    color: #ffffff; 
+  }
+  .footer_cont{
+    background: #111
+  }

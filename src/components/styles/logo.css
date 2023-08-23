@@ -1,0 +1,42 @@
+.section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 240px;
+  }
+.logo_img{
+    display: flex;
+    justify-content: center; 
+}
+.img{
+    display: flex;
+    justify-content: center; 
+}
+  .text{
+    display: flex;
+    justify-content: center;
+    color: #FFF;
+    font-family: Baloo 2;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px; /* 75% */
+    letter-spacing: -0.64px;
+  }
+  .name_quest{
+    display: flex;
+    color: #FFF;
+    font-family: Baloo 2;
+    font-size: 32px;
+  }
+  .game_imprshion{
+    display: flex;
+    justify-content: center;
+    color: #FFF;
+    font-family: Baloo 2;
+    font-size: 32px;
+    margin-bottom: 2%;
+  }
+  .cont{
+    height: 100vh;
+  }

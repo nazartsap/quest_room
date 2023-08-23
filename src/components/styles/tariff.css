@@ -1,0 +1,20 @@
+.tariff{
+  height: 100vh; 
+}
+.headline_tariff{
+  display: flex;
+  justify-content: center;
+  color: #FFF;
+  font-family: Inter;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px; /* 37.5% */
+  letter-spacing: -1.28px;
+  margin: 10%;
+}
+.content_tariff{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
