@@ -30,6 +30,7 @@
 .form_buck{
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 input{
     background-color: #ffffff;
